@@ -1,0 +1,85 @@
+🔹 Step 1: Typo Tolerance (sabse easy, default enabled)
+
+Algolia pe by default typo correction ON hoti hai.
+
+Lekin tum chaaho to frontend search call me strictly control kar sakte ho.
+
+SearchBar.jsx me:
+
+let { hits } = await index.search(q, {
+  typoTolerance: "min",   // "true" | "false" | "min" | "strict"
+  minWordSizefor1Typo: 4, // chhoti words ke liye 1 typo allow
+  minWordSizefor2Typos: 8, // bade words ke liye 2 typos allow
+});
+
+
+👉 Isse “coffe” likhne par bhi “coffee” milega.
+
+🔹 Step 2: Synonyms
+
+Tum Algolia Dashboard → Indices → Synonyms me jaake “bug ↔ mug” jaisi mapping add kar sakte ho.
+
+Ya API se bhi add kar sakte ho:
+
+Backend (Node.js example):
+
+await index.saveSynonyms([
+  {
+    objectID: "bug-mug",
+    type: "synonym",
+    synonyms: ["bug", "mug"],
+  },
+]);
+
+
+👉 Ab “coffee bug” likhne pe mug results aayenge.
+
+🔹 Step 3: Query Rules
+
+Query rules se tum complex conditions + actions define kar sakte ho.
+
+Example: agar user “coffee bug” search kare, to query ko “coffee mug” me rewrite kar do.
+
+Backend (Node.js example):
+
+await index.saveRule({
+  objectID: "coffee-bug-to-mug",
+  condition: {
+    pattern: "coffee bug",
+    anchoring: "is",
+  },
+  consequence: {
+    params: {
+      query: "coffee mug",
+    },
+  },
+});
+
+
+👉 Ye synonyms se zyada powerful hai kyunki puri query transform hoti hai.
+
+🔹 Step 4: Optional Words / Remove Words
+
+Agar query exact match nahi hoti, Algolia automatically kuch words ko optional treat karke partial results dikhata hai.
+
+Tum explicitly set kar sakte ho:
+
+Frontend me:
+
+let { hits } = await index.search(q, {
+  removeWordsIfNoResults: "allOptional", 
+  // options: "none" | "lastWords" | "firstWords" | "allOptional"
+});
+
+
+👉 Example: “chocolate mug” → agar exact product nahi hai, to “chocolate” ya “mug” ke results dikhayega.
+
+🔹 Step 5: AI / Neural Search (paid plan)
+
+Ye tumhare plan pe depend karta hai (Essentials / Premium).
+
+Agar enabled hai to tum vector embeddings ya semantic search activate kar sakte ho.
+
+Ye automatic synonyms / semantic similarity detect karke “tea cup” → mugs bhi suggest kar deta hai.
+
+Geolog basically ek analytics + tracking system hai jo search aur user behavior (search, click, conversion) ko geo-location ke sath log karta hai.

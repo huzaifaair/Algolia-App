@@ -1,0 +1,151 @@
+app.get("/check-all-geolocation", async (req, res) => {
+  try {
+    let allProducts = [];
+    
+    console.log("🔄 Fetching products from Algolia with extended queries...");
+
+    // Extended queries list with maximum combinations
+    const testQueries = [
+      "", // Empty query
+      
+      // Single characters
+      "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m",
+      "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z",
+      "0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+      
+      // Double characters
+      "aa", "ab", "ac", "ad", "ae", "af", "ag", "ah", "ai", "aj", "ak", "al", "am", "an", "ao", "ap", "aq", "ar", "as", "at", "au", "av", "aw", "ax", "ay", "az",
+      "ba", "bb", "bc", "bd", "be", "bf", "bg", "bh", "bi", "bj", "bk", "bl", "bm", "bn", "bo", "bp", "bq", "br", "bs", "bt", "bu", "bv", "bw", "bx", "by", "bz",
+      "ca", "cb", "cc", "cd", "ce", "cf", "cg", "ch", "ci", "cj", "ck", "cl", "cm", "cn", "co", "cp", "cq", "cr", "cs", "ct", "cu", "cv", "cw", "cx", "cy", "cz",
+      "da", "db", "dc", "dd", "de", "df", "dg", "dh", "di", "dj", "dk", "dl", "dm", "dn", "do", "dp", "dq", "dr", "ds", "dt", "du", "dv", "dw", "dx", "dy", "dz",
+      "ea", "eb", "ec", "ed", "ee", "ef", "eg", "eh", "ei", "ej", "ek", "el", "em", "en", "eo", "ep", "eq", "er", "es", "et", "eu", "ev", "ew", "ex", "ey", "ez",
+      "fa", "fb", "fc", "fd", "fe", "ff", "fg", "fh", "fi", "fj", "fk", "fl", "fm", "fn", "fo", "fp", "fq", "fr", "fs", "ft", "fu", "fv", "fw", "fx", "fy", "fz",
+      "ga", "gb", "gc", "gd", "ge", "gf", "gg", "gh", "gi", "gj", "gk", "gl", "gm", "gn", "go", "gp", "gq", "gr", "gs", "gt", "gu", "gv", "gw", "gx", "gy", "gz",
+      "ha", "hb", "hc", "hd", "he", "hf", "hg", "hh", "hi", "hj", "hk", "hl", "hm", "hn", "ho", "hp", "hq", "hr", "hs", "ht", "hu", "hv", "hw", "hx", "hy", "hz",
+      "ia", "ib", "ic", "id", "ie", "if", "ig", "ih", "ii", "ij", "ik", "il", "im", "in", "io", "ip", "iq", "ir", "is", "it", "iu", "iv", "iw", "ix", "iy", "iz",
+      "ja", "jb", "jc", "jd", "je", "jf", "jg", "jh", "ji", "jj", "jk", "jl", "jm", "jn", "jo", "jp", "jq", "jr", "js", "jt", "ju", "jv", "jw", "jx", "jy", "jz",
+      "ka", "kb", "kc", "kd", "ke", "kf", "kg", "kh", "ki", "kj", "kk", "kl", "km", "kn", "ko", "kp", "kq", "kr", "ks", "kt", "ku", "kv", "kw", "kx", "ky", "kz",
+      "la", "lb", "lc", "ld", "le", "lf", "lg", "lh", "li", "lj", "lk", "ll", "lm", "ln", "lo", "lp", "lq", "lr", "ls", "lt", "lu", "lv", "lw", "lx", "ly", "lz",
+      "ma", "mb", "mc", "md", "me", "mf", "mg", "mh", "mi", "mj", "mk", "ml", "mm", "mn", "mo", "mp", "mq", "mr", "ms", "mt", "mu", "mv", "mw", "mx", "my", "mz",
+      
+      // Common words and categories
+      "product", "products", "item", "items", "shop", "shopping", "buy", "sale", "sales", 
+      "new", "fresh", "organic", "natural", "quality", "best", "price", "prices", "discount",
+      "free", "delivery", "shipping", "online", "store", "market", "supermarket", "grocery",
+      "food", "drink", "beverage", "snack", "fruit", "vegetable", "meat", "chicken", "fish",
+      "rice", "flour", "oil", "milk", "bread", "egg", "eggs", "water", "juice", "tea", "coffee",
+      "sugar", "salt", "spice", "sauce", "ketchup", "mayonnaise", "butter", "cheese", "yogurt",
+      "clean", "cleaning", "soap", "shampoo", "toothpaste", "brush", "tissue", "paper",
+      "home", "kitchen", "bathroom", "bedroom", "living", "garden", "office", "school",
+      "baby", "child", "kids", "men", "women", "family", "health", "beauty", "care",
+      "electronic", "mobile", "phone", "laptop", "computer", "tv", "camera", "headphone",
+      "clothing", "shirt", "pant", "shoe", "dress", "jacket", "watch", "jewelry",
+      "sports", "fitness", "game", "toy", "book", "music", "movie", "art", "craft"
+    ];
+
+    let totalFetched = 0;
+    let duplicateCount = 0;
+    let queriesUsed = 0;
+
+    for (let i = 0; i < testQueries.length; i++) {
+      const query = testQueries[i];
+      queriesUsed++;
+      
+      // Agar already 15,657 products mil gaye toh stop
+      if (allProducts.length >= 15657) {
+        console.log(`🎯 Exact target reached: ${allProducts.length} products`);
+        break;
+      }
+      
+      console.log(`📥 Fetching with query: "${query}" (${i + 1}/${testQueries.length})`);
+      
+      try {
+        const result = await index.search(query, {
+          hitsPerPage: 1000,
+          attributesToRetrieve: ["objectID", "productName", "name", "_geoloc", "hasGeo", "seller"]
+        });
+        
+        totalFetched += result.hits.length;
+        
+        const newProducts = result.hits.filter(newProduct => 
+          !allProducts.some(existingProduct => existingProduct.objectID === newProduct.objectID)
+        );
+        
+        duplicateCount += (result.hits.length - newProducts.length);
+        
+        console.log(`✅ Query "${query}": ${result.hits.length} total, ${newProducts.length} new products (Total: ${allProducts.length + newProducts.length})`);
+        
+        allProducts = allProducts.concat(newProducts);
+        
+        // Agar 5 consecutive queries se koi new product nahi mila toh stop
+        if (newProducts.length === 0 && i > 10) {
+          let emptyCount = 0;
+          for (let j = i; j >= Math.max(0, i - 5); j--) {
+            const prevQuery = testQueries[j];
+            const prevResult = await index.search(prevQuery, {
+              hitsPerPage: 100,
+              attributesToRetrieve: ["objectID"]
+            });
+            
+            const prevNew = prevResult.hits.filter(hit => 
+              !allProducts.some(p => p.objectID === hit.objectID)
+            );
+            
+            if (prevNew.length === 0) emptyCount++;
+          }
+          
+          if (emptyCount >= 5) {
+            console.log(`🛑 Stopping: 5 consecutive queries returned no new products`);
+            break;
+          }
+        }
+        
+        // Wait karo
+        await new Promise(resolve => setTimeout(resolve, 150));
+        
+      } catch (err) {
+        console.log(`❌ Query "${query}" failed:`, err.message);
+      }
+    }
+
+    console.log(`🎯 FINAL: Total ${allProducts.length} unique products fetched`);
+    console.log(`📊 Stats: ${queriesUsed} queries used, ${totalFetched} total fetched, ${duplicateCount} duplicates removed`);
+
+    // Categorization
+    const productsWithGeo = allProducts.filter(p => p._geoloc && p._geoloc.lat && p._geoloc.lng);
+    const productsWithPartialGeo = allProducts.filter(p => 
+      (p._geoloc && (!p._geoloc.lat || !p._geoloc.lng)) || 
+      (p.hasGeo && !p._geoloc)
+    );
+    const productsWithoutGeo = allProducts.filter(p => !p._geoloc && !p.hasGeo);
+
+    res.json({
+      success: true,
+      totalProducts: allProducts.length,
+      queriesUsed: queriesUsed,
+      performance: {
+        totalFetched: totalFetched,
+        duplicatesRemoved: duplicateCount,
+        efficiency: ((allProducts.length / totalFetched) * 100).toFixed(2) + '%'
+      },
+      statistics: {
+        withCompleteGeo: productsWithGeo.length,
+        withPartialGeo: productsWithPartialGeo.length,
+        withoutGeo: productsWithoutGeo.length,
+        withGeoPercentage: allProducts.length > 0 ? ((productsWithGeo.length / allProducts.length) * 100).toFixed(2) + '%' : '0%',
+        withoutGeoPercentage: allProducts.length > 0 ? ((productsWithoutGeo.length / allProducts.length) * 100).toFixed(2) + '%' : '0%',
+        partialGeoPercentage: allProducts.length > 0 ? ((productsWithPartialGeo.length / allProducts.length) * 100).toFixed(2) + '%' : '0%'
+      },
+      note: allProducts.length >= 15657 ? 
+        `🎉 Successfully fetched all ${allProducts.length} products!` :
+        `📈 Fetched ${allProducts.length} products (${15657 - allProducts.length} remaining)`
+    });
+
+  } catch (err) {
+    console.error("Error checking all geolocation:", err);
+    res.status(500).json({ 
+      success: false, 
+      error: err.message 
+    });
+  }
+});

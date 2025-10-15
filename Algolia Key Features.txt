@@ -1,0 +1,88 @@
+Algolia Key Features:
+We will test these algolia features one by one.
+Search & Relevance section 
+
+Typo tolerance:
+✅Typo tolerance settings (Algolia built-in) 	"true" | "false" | "min" | "strict"
+
+Synonyms:
+✅Custom synonym map (frontend layer) 
+const synonymMap = {
+  bug: "mug",
+  coffe: "coffee",
+  laptp: "laptop",
+  tshrt: "tshirt",
+  moblie: "mobile",
+};
+
+synonym map (Backend layer) 
+app.post("/add-synonyms", async (req, res) => {
+  try {
+    const { synonyms } = req.body;
+
+    // Example synonyms if none provided
+    const synonymObjects = synonyms || [
+      {
+        objectID: "bug-mug",
+        type: "synonym",
+        synonyms: ["bug", "mug"],
+      },
+      {
+        objectID: "coffe-coffee",
+        type: "synonym",
+        synonyms: ["coffe", "coffee"],
+      },
+    ];
+
+Query Rules:
+Powerfull more than Synonyms method
+app.post("/add-query-rule", async (req, res) => {
+  try {
+    const { rule } = req.body;
+
+    const ruleObject = rule || {
+      objectID: "coffee-bug-to-mug",
+      condition: {
+        pattern: "coffee bug",
+        anchoring: "is",
+      },
+      consequence: {
+        params: {
+          query: "coffee mug", // query rewrite
+        },
+      },
+    };
+
+
+Optional words/ignore stop words:
+let { hits } = await index.search(q, {
+        removeWordsIfNoResults: "allOptional", 
+       // options: "none" | "lastWords" | "firstWords" | "allOptional"
+});
+
+Query Suggestions:
+(Backend layer)
+app.post("/add-suggestions", async (req, res) => {
+  try {
+    const { suggestions } = req.body;
+
+    const suggestionObjects = suggestions || [
+      { objectID: "s1", query: "coffee mug" },
+      { objectID: "s2", query: "polo shirts" },
+      { objectID: "s3", query: "iphone 15" },
+    ];
+
+    await suggestionsIndex.saveObjects(suggestionObjects);
+
+(frontend layer)
+
+Vector/Neural Search:
+Rules:
+AI Synonyms:
+Collections:
+Re-Ranking:
+Query Categorization:
+Personalization:
+
+
+
