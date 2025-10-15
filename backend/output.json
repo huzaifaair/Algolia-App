@@ -1,0 +1,4445 @@
+{
+    "success": true,
+    "summary": {
+        "totalProducts": 13590,
+        "correctGeoloc": 3983,
+        "incorrectGeoloc": 9591,
+        "fixableGeoloc": 8713,
+        "missingGeoloc": 16,
+        "noSellerAddress": 0,
+        "correctPercentage": "29.31%",
+        "incorrectPercentage": "70.57%",
+        "fixablePercentage": "64.11%",
+        "accuracy": "29.31%"
+    },
+    "details": {
+        "correctGeoloc": [
+            {
+                "objectID": "68daa0cb2d9e9a8aba90de04",
+                "title": "Polo Shirt",
+                "seller": {
+                    "id": "2430072722",
+                    "name": "VS Store",
+                    "userName": "Usman",
+                    "businessType": "flexible",
+                    "zone": "G - 9",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "G - 9, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6882189,
+                    "lng": 73.0351424
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6914356,
+                    "lng": 73.0307196
+                },
+                "distanceKm": "0.54",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6882189,73.0351424"
+            },
+            {
+                "objectID": "68daa0532d9e9a8aba90de00",
+                "title": "Green & Blue Polo",
+                "seller": {
+                    "id": "2430072722",
+                    "name": "VS Store",
+                    "userName": "Usman",
+                    "businessType": "flexible",
+                    "zone": "G - 9",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "G - 9, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6882189,
+                    "lng": 73.0351424
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6914356,
+                    "lng": 73.0307196
+                },
+                "distanceKm": "0.54",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6882189,73.0351424"
+            },
+            {
+                "objectID": "68b464cb409bb2bedbf6d1aa",
+                "title": "Polo - Incl - ISL",
+                "seller": {
+                    "id": "2238452527",
+                    "name": "VS Store Islamabad",
+                    "userName": "Usman",
+                    "businessType": "inclusive",
+                    "zone": "F - 11",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "F - 11, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6821991,
+                    "lng": 72.98030299999999
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6843932,
+                    "lng": 72.989544
+                },
+                "distanceKm": "0.89",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6821991,72.98030299999999"
+            },
+            {
+                "objectID": "68b46325409bb2bedbf6d19e",
+                "title": "Polo - Flex - Isl",
+                "seller": {
+                    "id": "2430072722",
+                    "name": "VS Store",
+                    "userName": "Usman",
+                    "businessType": "flexible",
+                    "zone": "G - 9",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "G - 9, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6882189,
+                    "lng": 73.0351424
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6914356,
+                    "lng": 73.0307196
+                },
+                "distanceKm": "0.54",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6882189,73.0351424"
+            },
+            {
+                "objectID": "68b45a2c409bb2bedbf6d194",
+                "title": "Black Shoes - Sale",
+                "seller": {
+                    "id": "2238452527",
+                    "name": "VS Store Islamabad",
+                    "userName": "Usman",
+                    "businessType": "inclusive",
+                    "zone": "F - 11",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "F - 11, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6821991,
+                    "lng": 72.98030299999999
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6843932,
+                    "lng": 72.989544
+                },
+                "distanceKm": "0.89",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6821991,72.98030299999999"
+            },
+            {
+                "objectID": "68ac8489fdc646242ea3e03a",
+                "title": "Green Short Sleeve Polo Shirt",
+                "seller": {
+                    "id": "2430072722",
+                    "name": "VS Store",
+                    "userName": "Usman",
+                    "businessType": "flexible",
+                    "zone": "G - 9",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "G - 9, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6882189,
+                    "lng": 73.0351424
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6914356,
+                    "lng": 73.0307196
+                },
+                "distanceKm": "0.54",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6882189,73.0351424"
+            },
+            {
+                "objectID": "68ab57e4e71f561bdf561a01",
+                "title": "Red Polo",
+                "seller": {
+                    "id": "2238452527",
+                    "name": "VS Store Islamabad",
+                    "userName": "Usman",
+                    "businessType": "inclusive",
+                    "zone": "F - 11",
+                    "city": "Islamabad",
+                    "province": "Capital Territory",
+                    "status": "active"
+                },
+                "sellerAddress": "F - 11, Islamabad, Capital Territory",
+                "currentGeoloc": {
+                    "lat": 33.6821991,
+                    "lng": 72.98030299999999
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.6843932,
+                    "lng": 72.989544
+                },
+                "distanceKm": "0.89",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.6821991,72.98030299999999"
+            },
+            {
+                "objectID": "689679783cceae6356615128",
+                "title": "Telephone",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "68961e3e3cceae6356615068",
+                "title": "Test",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "688c96e4ebb7cd90d8d927d7",
+                "title": "Perfume royal",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "688b75b7a39cc5eab2af3028",
+                "title": "Sox",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "688a4001709418bde729cbad",
+                "title": "chat gbt",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "6888b110f7f8cf2f51478844",
+                "title": "𝐖𝐁𝐌 - Natural Solution Nourishing Body Wash - 500ml",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "6888b031f7f8cf2f5147883f",
+                "title": "Relaxsit (Pack of 5) Jute Cushions Decorative Throw Pillow with Poms border 17x17 inches",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "688725354a6d78b2066eb842",
+                "title": "hair oil ",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "6878a9d55b2d7bfe9bda616e",
+                "title": "Helmit",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "686be4f26894205e4ee6aac7",
+                "title": "Triangle Shape Coffee Table",
+                "seller": {
+                    "id": "3589322599",
+                    "name": "Axis Furnish",
+                    "userName": "Shahzada Muhammad Junaid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.5725779188562,
+                    "lng": 74.31733667101767
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.5725779188562,74.31733667101767"
+            },
+            {
+                "objectID": "686be006e2672cd9b0c32c84",
+                "title": "Imported Original 1000ml Stainless Steel Cold & Hot Water Bottle for Boys Girls & Kids , Sports & Gym | Thermos Flask | (1 Liters)",
+                "seller": {
+                    "id": "3650321699",
+                    "name": "Sultan International Trading and Co. (SITC)",
+                    "userName": "Akif Sultan Afridi",
+                    "businessType": "inclusive",
+                    "zone": "Old City",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Old City, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 34.0078125,
+                    "lng": 71.57106250000001
+                },
+                "verifiedGeoloc": {
+                    "lat": 34.006564,
+                    "lng": 71.5737833
+                },
+                "distanceKm": "0.29",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=34.0078125,71.57106250000001"
+            },
+            {
+                "objectID": "686bde73276f2b406cac65de",
+                "title": "Vacuum Thermos Flask Stainless Steel Bottle - Multicolour",
+                "seller": {
+                    "id": "3650321699",
+                    "name": "Sultan International Trading and Co. (SITC)",
+                    "userName": "Akif Sultan Afridi",
+                    "businessType": "inclusive",
+                    "zone": "Old City",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Old City, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 34.0078125,
+                    "lng": 71.57106250000001
+                },
+                "verifiedGeoloc": {
+                    "lat": 34.006564,
+                    "lng": 71.5737833
+                },
+                "distanceKm": "0.29",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=34.0078125,71.57106250000001"
+            },
+            {
+                "objectID": "686bd7d166b3a968bd4fc29d",
+                "title": "World Map Shape Side Table/Coffee",
+                "seller": {
+                    "id": "3589322599",
+                    "name": "Axis Furnish",
+                    "userName": "Shahzada Muhammad Junaid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.5725779188562,
+                    "lng": 74.31733667101767
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.5725779188562,74.31733667101767"
+            },
+            {
+                "objectID": "686bd69e276f2b406cac61fa",
+                "title": "Lifecare Hot and Cold Pack",
+                "seller": {
+                    "id": "797042343",
+                    "name": "Citi Scientific",
+                    "userName": "citi scientific ",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85869182891412,
+                    "lng": 67.03345388174057
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "0.29",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85869182891412,67.03345388174057"
+            },
+            {
+                "objectID": "686bd375e25eb2eb9fd9e26d",
+                "title": "bercrombie & Fitch Away Weekend Women EDP - 100ml",
+                "seller": {
+                    "id": "1713055277",
+                    "name": "Telemart Private Limited",
+                    "userName": "Hamza Abdul Rauf",
+                    "businessType": "inclusive",
+                    "zone": "Bahadurabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Bahadurabad, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8809711,
+                    "lng": 67.0638195
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8833208,
+                    "lng": 67.0715122
+                },
+                "distanceKm": "0.82",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8809711,67.0638195"
+            },
+            {
+                "objectID": "686bd157e25eb2eb9fd9e115",
+                "title": "Walker with Parachute Seat 961L",
+                "seller": {
+                    "id": "797042343",
+                    "name": "Citi Scientific",
+                    "userName": "citi scientific ",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85869182891412,
+                    "lng": 67.03345388174057
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "0.29",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85869182891412,67.03345388174057"
+            },
+            {
+                "objectID": "686bd156e25eb2eb9fd9e106",
+                "title": "Blue Sunglasses ",
+                "seller": {
+                    "id": "4218669148",
+                    "name": "Baria Store",
+                    "userName": "Baria",
+                    "businessType": "exclusive",
+                    "zone": "Clifton",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Clifton, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8163052,
+                    "lng": 67.021109
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8190552,
+                    "lng": 67.0262397
+                },
+                "distanceKm": "0.60",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8163052,67.021109"
+            },
+            {
+                "objectID": "686bd13ee25eb2eb9fd9e101",
+                "title": "Abercrombie & Fitch Away Tonight Men EDT 100ml",
+                "seller": {
+                    "id": "1713055277",
+                    "name": "Telemart Private Limited",
+                    "userName": "Hamza Abdul Rauf",
+                    "businessType": "inclusive",
+                    "zone": "Bahadurabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Bahadurabad, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8809711,
+                    "lng": 67.0638195
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8833208,
+                    "lng": 67.0715122
+                },
+                "distanceKm": "0.82",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8809711,67.0638195"
+            },
+            {
+                "objectID": "686bcffee25eb2eb9fd9e077",
+                "title": "Buypass Test Product ",
+                "seller": {
+                    "id": "2570804722",
+                    "name": "Bypass Test Account ",
+                    "userName": "Hazique Mehmood",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "0.92",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686bcff1e25eb2eb9fd9e061",
+                "title": "bercrombie & Fitch Authentic Self For Women EDP 100ml",
+                "seller": {
+                    "id": "1713055277",
+                    "name": "Telemart Private Limited",
+                    "userName": "Hamza Abdul Rauf",
+                    "businessType": "inclusive",
+                    "zone": "Bahadurabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Bahadurabad, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8809711,
+                    "lng": 67.0638195
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8833208,
+                    "lng": 67.0715122
+                },
+                "distanceKm": "0.82",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8809711,67.0638195"
+            },
+            {
+                "objectID": "686bcfd6e25eb2eb9fd9e05c",
+                "title": "Knee Immobilizer Adult TS Barnd Local Made",
+                "seller": {
+                    "id": "797042343",
+                    "name": "Citi Scientific",
+                    "userName": "citi scientific ",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85869182891412,
+                    "lng": 67.03345388174057
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "0.29",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85869182891412,67.03345388174057"
+            },
+            {
+                "objectID": "686bcf42e25eb2eb9fd9e00b",
+                "title": "Abercrombie & Fitch Authentic Self Men EDT 100Ml",
+                "seller": {
+                    "id": "1713055277",
+                    "name": "Telemart Private Limited",
+                    "userName": "Hamza Abdul Rauf",
+                    "businessType": "inclusive",
+                    "zone": "Bahadurabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Bahadurabad, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8809711,
+                    "lng": 67.0638195
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8833208,
+                    "lng": 67.0715122
+                },
+                "distanceKm": "0.82",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8809711,67.0638195"
+            },
+            {
+                "objectID": "686b863c56aa9f550244cfcd",
+                "title": "\"Midnight Majesty – Arabic Numeral Islamic Wall Clock\"",
+                "seller": {
+                    "id": "492225951",
+                    "name": "Decor O' Clock",
+                    "userName": "Hanzala Hamid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57259585345292,
+                    "lng": 74.31732571593396
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57259585345292,74.31732571593396"
+            },
+            {
+                "objectID": "686b858956aa9f550244cfc4",
+                "title": "\"Allah's Name Wall Clock – Green Garden Edition\"",
+                "seller": {
+                    "id": "492225951",
+                    "name": "Decor O' Clock",
+                    "userName": "Hanzala Hamid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57259585345292,
+                    "lng": 74.31732571593396
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57259585345292,74.31732571593396"
+            },
+            {
+                "objectID": "686b84ff56aa9f550244cfac",
+                "title": "Sky Serenity Islamic Wall Clock\"",
+                "seller": {
+                    "id": "492225951",
+                    "name": "Decor O' Clock",
+                    "userName": "Hanzala Hamid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57259585345292,
+                    "lng": 74.31732571593396
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57259585345292,74.31732571593396"
+            },
+            {
+                "objectID": "686b83d656aa9f550244cf7a",
+                "title": " Panda Wall Clock Living Room Atmosphere Simple Modern Living Room Watch New Clock Dining Room",
+                "seller": {
+                    "id": "492225951",
+                    "name": "Decor O' Clock",
+                    "userName": "Hanzala Hamid Khan",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57259585345292,
+                    "lng": 74.31732571593396
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "0.85",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57259585345292,74.31732571593396"
+            },
+            {
+                "objectID": "686877a4b5e19737fb444255",
+                "title": "1pc Professional Facial Mask Brush - Flat Head design with Long Handle (16.0cm), Soft Synthetic Bristles for Precise Makeup, Face Masks, Salon & Home Use - Easy-Clean Beauty Tool for Smooth Application, Makeup Tools, Elegant ",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "686876e7b5e19737fb4441e8",
+                "title": "1 Set of 6pcs/Single Ear Spoon 1pc Stainless Steel Ear Pick Tool Adult Portable Pendant, Used for Cleaning Ear Wax",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "6868761c35dc1526162482e0",
+                "title": "Makeup Dual End Eyeshadow Brush Sponge Applicator Tools Double Sponge Eye Shadow Blending Concealer Brush",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "6868757eb5e19737fb4441c1",
+                "title": "Finger nail & Toe nail clipper cutter,Finger nail clipper cutter with nail filer sharp,Effortless Nail Cutter desgin 5",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "686874de35dc1526162482c3",
+                "title": "Finger nail & Toe nail clipper cutter,Finger nail clipper cutter with nail filer sharp,Effortless Nail Cutter.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "6868742635dc1526162482a5",
+                "title": "Pack of 3- 4 In 1 Multi Use Pedicure Paddle Brush - 4 Step Pedicure (Cleanse, Scrub, File And Buff)",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "6868732db5e19737fb444115",
+                "title": "Finger nail & Toe nail clipper cutter,Finger nail clipper cutter with nail filer sharp,Effortless Nail Cutter.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68687277b5e19737fb44410b",
+                "title": "10pcs Hair styling,dressing Comb set professionally used For Hair dresses",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "686871a3ab8baa6428cfc805",
+                "title": "Nail Clipper Cutter,Small size Finger nail clipper cutter with nail filer sharp,Effortless Nail Cutter.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "6868703bbe75b5dc08897cdd",
+                "title": "Shave Body Razor pack of 6 ergonomic nick free smooth or silk",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686f91be75b5dc08897cd4",
+                "title": "12pcs Hair Curler Roller Large Grip Clips Lazy Curlers Hairdressing DIY Hair Styling Tools Beauty Accessories Random Color",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686eaabe75b5dc08897cc8",
+                "title": "Finger nail & Toe nail clipper cutter,Finger nail clipper cutter with nail filer sharp,Effortless Nail Cutter.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686e12ab8baa6428cfc7e9",
+                "title": "Carbon Steel Nail Cutter Good Quality Multi-Function Nail clipper,Cutter,Bottle Opener.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686d1aab8baa6428cfc7d6",
+                "title": "Pack of 3 Stainless Steel Blackhead Remover Pin.",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686c48be75b5dc08897c84",
+                "title": "Pack of 12 Double Sided Head Lice Comb Hair Combs Fine Tooth Head Lice Flea Nit Hair Combs",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686b96ab8baa6428cfc783",
+                "title": "Nail Clipper Anti-Splash With Tray Stainless Steel Professional Nail Cutter Tools For Personal",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            },
+            {
+                "objectID": "68686acbbe75b5dc08897c15",
+                "title": "Manicure set Stainless Steel Nail Clipper Set 8pcs Professional Nail Tools Manicure Set of Travel Grooming Kit Personal Care Kit",
+                "seller": {
+                    "id": "3833453360",
+                    "name": "WS Beauty",
+                    "userName": "Muhammad Huzaifa",
+                    "businessType": "inclusive",
+                    "zone": "Jodia Bazar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Jodia Bazar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.85262082726544,
+                    "lng": 67.00331926345825
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8534537,
+                    "lng": 67.0010239
+                },
+                "distanceKm": "0.25",
+                "status": "Correct",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.85262082726544,67.00331926345825"
+            }
+        ],
+        "incorrectGeoloc": [
+            {
+                "objectID": "68dcfe98f9f3bf084ed1cd46",
+                "title": "Table",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "exclusive",
+                    "zone": "Basti Jafarabad",
+                    "city": "Zahir Pir",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68d3a2b274227f0b55210075",
+                "title": "Shoes Formal and Casual",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68d0fd1dfda06bcbcb97c28d",
+                "title": "Cordless Kettle (Fast Boil 3KW, Black Premium Plastic, matt & high Gloss Finish, Removable Washable Anti-Scale Filter, Push to Open lid, Perfect Pour spout)",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "exclusive",
+                    "zone": "Basti Jafarabad",
+                    "city": "Zahir Pir",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68ce6bf9b3b6cb228ddcbf52",
+                "title": "Dr Haris Working Women Unstitched Lawn For women WWD-020",
+                "seller": {
+                    "id": "2324704972",
+                    "name": "Dr Haris",
+                    "userName": "Dr Haris",
+                    "businessType": "inclusive",
+                    "zone": "P.E.C.H.S",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86605414610069,
+                    "lng": 67.05689437687397
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68cbde2340fcf0a8de7e41bd",
+                "title": "Sofa set",
+                "seller": {
+                    "id": "931134875",
+                    "name": "Buypass.ai",
+                    "userName": "Buypass.ai",
+                    "businessType": "winwin",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8596485,
+                    "lng": 67.0613269
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68cbcff65b83a8dc4d3ec982",
+                "title": "Sneakers ",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68c830fa03cdc1edaf542c37",
+                "title": "Plain Brown Round Neck Short Sleeve T-shirt",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68c80c5cd8aadcd11091f513",
+                "title": "Bottle ",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68b463e8409bb2bedbf6d1a4",
+                "title": "Polo - Excl - KHI",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68b451f1409bb2bedbf6d189",
+                "title": "Variable Polos",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68b1c1a25f9e55e6c9e19cc9",
+                "title": "Unisex Plain Brown Short Sleeve T-shirt",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68aef7bb667312aef3bddc1b",
+                "title": "Blue Sneakers",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68ac7efc64cfadd8876600f8",
+                "title": "Blue Polo",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68ac0eaa867a0b9ee9dc32bd",
+                "title": "Gym Log Book (A5) - Hardback Leather PU Workout Tracker (128 Workouts) - Set Goals & Track Progress - Premium Fitness Planner by Gorilla Fit",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "68ab71cc9d1bc50945abd25d",
+                "title": "Blue Shoes",
+                "seller": {
+                    "id": "803303304",
+                    "name": "VS Store 3",
+                    "userName": "Anas Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.91277400777399,
+                    "lng": 67.11089288410649
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "1.41",
+                "reason": "Geoloc mismatch - 1.41km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.91277400777399,67.11089288410649"
+            },
+            {
+                "objectID": "68ab4767e71f561bdf5619f2",
+                "title": "Polo Shirt",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68ab3fa5e71f561bdf5619ea",
+                "title": "Used Shoes 2",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68a8999030eec6b4267d96b2",
+                "title": "Casual Shoes",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68a88cf70feebc4fb59ac02e",
+                "title": "Watch",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68a2c1834c0f1a344bb69872",
+                "title": "Sofa set 2 Seater",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "689ec9e90da86a69b504fb87",
+                "title": "Sofa set",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "flexible",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "68961b4fac223969a33ea39c",
+                "title": "Round Neck Shirts",
+                "seller": {
+                    "id": "2062479377",
+                    "name": "BuyPass Store",
+                    "userName": "Usman ",
+                    "businessType": "flexible",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9226486,
+                    "lng": 67.088438
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "2.05",
+                "reason": "Geoloc mismatch - 2.05km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9226486,67.088438"
+            },
+            {
+                "objectID": "6895dce6652a08df01c38741",
+                "title": "Heels ",
+                "seller": {
+                    "id": "2990263082",
+                    "name": "A3 Store",
+                    "userName": "Aiman Amjad Ali",
+                    "businessType": "inclusive",
+                    "zone": "P.E.C.H.S",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86924846140689,
+                    "lng": 67.06618554473573
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "6894f133652a08df01c38708",
+                "title": "Android Phone Covers",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "6893179dc5b9e0f0a1cc339c",
+                "title": "honda CG150",
+                "seller": {
+                    "id": "1659140532",
+                    "name": "WA productions",
+                    "userName": "wajahat",
+                    "businessType": "exclusive",
+                    "zone": "BufferZone",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "BufferZone, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9622082,
+                    "lng": 67.0695257
+                },
+                "distanceKm": "11.78",
+                "reason": "Geoloc mismatch - 11.78km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "68923955c5b9e0f0a1cc32cf",
+                "title": "Checkered Shirts",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68921afdc5b9e0f0a1cc323d",
+                "title": "Samsung A33",
+                "seller": {
+                    "id": "1659140532",
+                    "name": "WA productions",
+                    "userName": "wajahat",
+                    "businessType": "exclusive",
+                    "zone": "BufferZone",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "BufferZone, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9622082,
+                    "lng": 67.0695257
+                },
+                "distanceKm": "11.78",
+                "reason": "Geoloc mismatch - 11.78km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "6891be5e011ca379a7d3f5b5",
+                "title": "Scanner | A4 | USB Power | 15 ppm | Color | Black/White | Dsmobile | Scan to USB",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "exclusive",
+                    "zone": "Basti Jafarabad",
+                    "city": "Zahir Pir",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "689091bf0afa938a71207e0c",
+                "title": "iphone 16 pro",
+                "seller": {
+                    "id": "3267238920",
+                    "name": "WA production",
+                    "userName": "wajahat ahmed",
+                    "businessType": "flexible",
+                    "zone": "Malir",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Malir, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.90333112092377,
+                    "lng": 67.20598697662354
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8959185,
+                    "lng": 67.1969187
+                },
+                "distanceKm": "1.23",
+                "reason": "Geoloc mismatch - 1.23km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.90333112092377,67.20598697662354"
+            },
+            {
+                "objectID": "688cb01f0d5b41f7698d55db",
+                "title": "Casual and Formal Shoes",
+                "seller": {
+                    "id": "803303304",
+                    "name": "VS Store 3",
+                    "userName": "Anas Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.91277400777399,
+                    "lng": 67.11089288410649
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "1.41",
+                "reason": "Geoloc mismatch - 1.41km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.91277400777399,67.11089288410649"
+            },
+            {
+                "objectID": "688c8ffcebb7cd90d8d927b2",
+                "title": "60cm Built-In Warming Drawer - Kitchen Wall Plate Heater - Push Open Black Steel",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "exclusive",
+                    "zone": "Basti Jafarabad",
+                    "city": "Zahir Pir",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "688b62b08b2e560af3b4614d",
+                "title": "Loreal",
+                "seller": {
+                    "id": "2990263082",
+                    "name": "A3 Store",
+                    "userName": "Aiman Amjad Ali",
+                    "businessType": "inclusive",
+                    "zone": "P.E.C.H.S",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86924846140689,
+                    "lng": 67.06618554473573
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "688b232bc46ca2c72420699b",
+                "title": "Sunsilk",
+                "seller": {
+                    "id": "2990263082",
+                    "name": "A3 Store",
+                    "userName": "Aiman Amjad Ali",
+                    "businessType": "inclusive",
+                    "zone": "P.E.C.H.S",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86924846140689,
+                    "lng": 67.06618554473573
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "6889c092bf8dafb8c843d3f9",
+                "title": "Kids Clothing",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "6889b239bf8dafb8c843d3ea",
+                "title": "Men's Long-Sleeved Autumn Shirt Regular Business Shirt Men's Casual Shirt Regular Fit Men's Shirts Casual Shirt",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "exclusive",
+                    "zone": "Basti Jafarabad",
+                    "city": "Zahir Pir",
+                    "province": "Punjab",
+                    "status": "active"
+                },
+                "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "6881c7728d8bddde51f76844",
+                "title": "T-Shirts for Mens",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "6880e374f33b3977628a572d",
+                "title": "Sunscreen ",
+                "seller": {
+                    "id": "1436155325",
+                    "name": "Rashel Store",
+                    "userName": "Rashel",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8124065,
+                    "lng": 67.0685336
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "6.49",
+                "reason": "Geoloc mismatch - 6.49km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8124065,67.0685336"
+            },
+            {
+                "objectID": "687f2c160c1ec6d54e0f6e53",
+                "title": "KLIP IT PLUS Leakproof Food Storage Containers | 1 L | Airtight, Stackable & Nestable Meal Prep Containers with Lids | School Lunch Boxes | BPA-Free | 3 Count",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226"
+            },
+            {
+                "objectID": "6879a98f00d29d68fe77a8ca",
+                "title": "Phone Covers",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "68763019148e5fbe920887e3",
+                "title": "Bedding Queen Pillow Cases ",
+                "seller": {
+                    "id": "1967108479",
+                    "name": "New Test",
+                    "userName": "Yaqoob",
+                    "businessType": "exclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9096137,
+                    "lng": 67.1108859
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "10.33",
+                "reason": "Geoloc mismatch - 10.33km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9096137,67.1108859"
+            },
+            {
+                "objectID": "686d088e5feebbcc1b100ee6",
+                "title": "Oil stain remover By HHH Cleaner",
+                "seller": {
+                    "id": "2079572679",
+                    "name": "hhh cleaners",
+                    "userName": "hhh cleaners",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8651254,
+                    "lng": 67.0217725
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "1.10",
+                "reason": "Geoloc mismatch - 1.10km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8651254,67.0217725"
+            },
+            {
+                "objectID": "686ce50b5feebbcc1b1006b5",
+                "title": "High Quality Metal Glock Foldable Action Toy Gun-Realistic Look",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686ce0b05feebbcc1b1005f1",
+                "title": "How Quantum Computers will Unlock the Mysteries of Science",
+                "seller": {
+                    "id": "1967108479",
+                    "name": "New Test",
+                    "userName": "Yaqoob",
+                    "businessType": "exclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9096137,
+                    "lng": 67.1108859
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "10.33",
+                "reason": "Geoloc mismatch - 10.33km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9096137,67.1108859"
+            },
+            {
+                "objectID": "686ccdd45feebbcc1b100326",
+                "title": "1:24 Scale Toyota Tundra Pickup Off-Road Vehicle Diecast Metal Alloy Model Car With Sound & Light",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686cc9d95feebbcc1b100252",
+                "title": "1:18 Audi A6-L Alloy Die Cast Toy Car Model Sound and Light Pull Back Toy Collectibles",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686cb5c45feebbcc1b0ffe68",
+                "title": "Collar Neck Shirts",
+                "seller": {
+                    "id": "418821754",
+                    "name": "VS Store 2",
+                    "userName": "Usman Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Cantonment Shahra-e-Faisal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.81559331767913,
+                    "lng": 67.08376396044532
+                },
+                "reason": "Could not verify - address not resolvable"
+            },
+            {
+                "objectID": "686cb2635feebbcc1b0ffe2a",
+                "title": "35pcs Artist Easel Drawing Board for Kids Dual Sided Magnetic Board With Adjustable Stand-Large Size",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686caed75feebbcc1b0ffdb9",
+                "title": "35pcs Artist Easel Drawing Board for Kids Dual Sided Magnetic Board With Adjustable Stand-Medium Size",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            },
+            {
+                "objectID": "686bf42d4a1248947465f425",
+                "title": "Fashion Man/Women Chest Bag Phone Pocket Cross Body Shoulder Fanny Pack Male Handbag Outdoor Neck Side Crossbody Gym Bags",
+                "seller": {
+                    "id": "4210926409",
+                    "name": "Cheena traders",
+                    "userName": "fakhir",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86507159627004,
+                    "lng": 67.02272236347198
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "1.02",
+                "reason": "Geoloc mismatch - 1.02km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.86507159627004,67.02272236347198"
+            },
+            {
+                "objectID": "686bee266894205e4ee6ace0",
+                "title": "Automatic Electric Water Gun – One-Touch Water Suction Blaster for Kids & Adults",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886"
+            }
+        ],
+        "fixableGeoloc": [
+            {
+                "objectID": "68ac0eaa867a0b9ee9dc32bd",
+                "title": "Gym Log Book (A5) - Hardback Leather PU Workout Tracker (128 Workouts) - Set Goals & Track Progress - Premium Fitness Planner by Gorilla Fit",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "68ab71cc9d1bc50945abd25d",
+                "title": "Blue Shoes",
+                "seller": {
+                    "id": "803303304",
+                    "name": "VS Store 3",
+                    "userName": "Anas Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.91277400777399,
+                    "lng": 67.11089288410649
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "1.41",
+                "reason": "Geoloc mismatch - 1.41km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.91277400777399,67.11089288410649",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9067294,
+                        "lng": 67.0986573
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "68a2c1834c0f1a344bb69872",
+                "title": "Sofa set 2 Seater",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "689ec9e90da86a69b504fb87",
+                "title": "Sofa set",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "flexible",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "68961b4fac223969a33ea39c",
+                "title": "Round Neck Shirts",
+                "seller": {
+                    "id": "2062479377",
+                    "name": "BuyPass Store",
+                    "userName": "Usman ",
+                    "businessType": "flexible",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9226486,
+                    "lng": 67.088438
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "2.05",
+                "reason": "Geoloc mismatch - 2.05km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9226486,67.088438",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9067294,
+                        "lng": 67.0986573
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "6893179dc5b9e0f0a1cc339c",
+                "title": "honda CG150",
+                "seller": {
+                    "id": "1659140532",
+                    "name": "WA productions",
+                    "userName": "wajahat",
+                    "businessType": "exclusive",
+                    "zone": "BufferZone",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "BufferZone, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9622082,
+                    "lng": 67.0695257
+                },
+                "distanceKm": "11.78",
+                "reason": "Geoloc mismatch - 11.78km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9622082,
+                        "lng": 67.0695257
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "68921afdc5b9e0f0a1cc323d",
+                "title": "Samsung A33",
+                "seller": {
+                    "id": "1659140532",
+                    "name": "WA productions",
+                    "userName": "wajahat",
+                    "businessType": "exclusive",
+                    "zone": "BufferZone",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "BufferZone, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9622082,
+                    "lng": 67.0695257
+                },
+                "distanceKm": "11.78",
+                "reason": "Geoloc mismatch - 11.78km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9622082,
+                        "lng": 67.0695257
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "689091bf0afa938a71207e0c",
+                "title": "iphone 16 pro",
+                "seller": {
+                    "id": "3267238920",
+                    "name": "WA production",
+                    "userName": "wajahat ahmed",
+                    "businessType": "flexible",
+                    "zone": "Malir",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Malir, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.90333112092377,
+                    "lng": 67.20598697662354
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8959185,
+                    "lng": 67.1969187
+                },
+                "distanceKm": "1.23",
+                "reason": "Geoloc mismatch - 1.23km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.90333112092377,67.20598697662354",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8959185,
+                        "lng": 67.1969187
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "688cb01f0d5b41f7698d55db",
+                "title": "Casual and Formal Shoes",
+                "seller": {
+                    "id": "803303304",
+                    "name": "VS Store 3",
+                    "userName": "Anas Rehman",
+                    "businessType": "exclusive",
+                    "zone": "Gulshan-e-Iqbal",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Gulshan-e-Iqbal, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.91277400777399,
+                    "lng": 67.11089288410649
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9067294,
+                    "lng": 67.0986573
+                },
+                "distanceKm": "1.41",
+                "reason": "Geoloc mismatch - 1.41km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.91277400777399,67.11089288410649",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9067294,
+                        "lng": 67.0986573
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "6889c092bf8dafb8c843d3f9",
+                "title": "Kids Clothing",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "6881c7728d8bddde51f76844",
+                "title": "T-Shirts for Mens",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "6880e374f33b3977628a572d",
+                "title": "Sunscreen ",
+                "seller": {
+                    "id": "1436155325",
+                    "name": "Rashel Store",
+                    "userName": "Rashel",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8124065,
+                    "lng": 67.0685336
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "6.49",
+                "reason": "Geoloc mismatch - 6.49km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8124065,67.0685336",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.859649,
+                        "lng": 67.0308157
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "687f2c160c1ec6d54e0f6e53",
+                "title": "KLIP IT PLUS Leakproof Food Storage Containers | 1 L | Airtight, Stackable & Nestable Meal Prep Containers with Lids | School Lunch Boxes | BPA-Free | 3 Count",
+                "seller": {
+                    "id": "2577013620",
+                    "name": "Best seller",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8387414,
+                    "lng": 67.1209226
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "2.81",
+                "reason": "Geoloc mismatch - 2.81km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8387414,67.1209226",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "68763019148e5fbe920887e3",
+                "title": "Bedding Queen Pillow Cases ",
+                "seller": {
+                    "id": "1967108479",
+                    "name": "New Test",
+                    "userName": "Yaqoob",
+                    "businessType": "exclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9096137,
+                    "lng": 67.1108859
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "10.33",
+                "reason": "Geoloc mismatch - 10.33km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9096137,67.1108859",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686d088e5feebbcc1b100ee6",
+                "title": "Oil stain remover By HHH Cleaner",
+                "seller": {
+                    "id": "2079572679",
+                    "name": "hhh cleaners",
+                    "userName": "hhh cleaners",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8651254,
+                    "lng": 67.0217725
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "1.10",
+                "reason": "Geoloc mismatch - 1.10km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8651254,67.0217725",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.859649,
+                        "lng": 67.0308157
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686ce50b5feebbcc1b1006b5",
+                "title": "High Quality Metal Glock Foldable Action Toy Gun-Realistic Look",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686ce0b05feebbcc1b1005f1",
+                "title": "How Quantum Computers will Unlock the Mysteries of Science",
+                "seller": {
+                    "id": "1967108479",
+                    "name": "New Test",
+                    "userName": "Yaqoob",
+                    "businessType": "exclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "Korangi, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9096137,
+                    "lng": 67.1108859
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8206928,
+                    "lng": 67.1403735
+                },
+                "distanceKm": "10.33",
+                "reason": "Geoloc mismatch - 10.33km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9096137,67.1108859",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8206928,
+                        "lng": 67.1403735
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686ccdd45feebbcc1b100326",
+                "title": "1:24 Scale Toyota Tundra Pickup Off-Road Vehicle Diecast Metal Alloy Model Car With Sound & Light",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686cc9d95feebbcc1b100252",
+                "title": "1:18 Audi A6-L Alloy Die Cast Toy Car Model Sound and Light Pull Back Toy Collectibles",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686cb2635feebbcc1b0ffe2a",
+                "title": "35pcs Artist Easel Drawing Board for Kids Dual Sided Magnetic Board With Adjustable Stand-Large Size",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686caed75feebbcc1b0ffdb9",
+                "title": "35pcs Artist Easel Drawing Board for Kids Dual Sided Magnetic Board With Adjustable Stand-Medium Size",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bf42d4a1248947465f425",
+                "title": "Fashion Man/Women Chest Bag Phone Pocket Cross Body Shoulder Fanny Pack Male Handbag Outdoor Neck Side Crossbody Gym Bags",
+                "seller": {
+                    "id": "4210926409",
+                    "name": "Cheena traders",
+                    "userName": "fakhir",
+                    "businessType": "inclusive",
+                    "zone": "Saddar",
+                    "city": "Karachi",
+                    "province": "Sindh",
+                    "status": "active"
+                },
+                "sellerAddress": "Saddar, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.86507159627004,
+                    "lng": 67.02272236347198
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.859649,
+                    "lng": 67.0308157
+                },
+                "distanceKm": "1.02",
+                "reason": "Geoloc mismatch - 1.02km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.86507159627004,67.02272236347198",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.859649,
+                        "lng": 67.0308157
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bee266894205e4ee6ace0",
+                "title": "Automatic Electric Water Gun – One-Touch Water Suction Blaster for Kids & Adults",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bea47e2672cd9b0c32d4a",
+                "title": "8 In 1 Early Development Educational Fun & Music Hammering Pounding Toy Set For Kids",
+                "seller": {
+                    "id": "2571624697",
+                    "name": "Tariq Die-Cast Cars",
+                    "userName": "Tariq Hussain",
+                    "businessType": "flexible",
+                    "zone": "M.A Jinnah Road",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "M.A Jinnah Road, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.8647717,
+                    "lng": 67.0236886
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8747522,
+                    "lng": 67.0370943
+                },
+                "distanceKm": "1.75",
+                "reason": "Geoloc mismatch - 1.75km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.8647717,67.0236886",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8747522,
+                        "lng": 67.0370943
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686be56ce2672cd9b0c32d00",
+                "title": "Wild Gentle 003 Bra – Striking Style Meets All-Day Comfort",
+                "seller": {
+                    "id": "19632677",
+                    "name": "Flourish",
+                    "userName": "Muhammad Hassan",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9476453,
+                    "lng": 67.0822218
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "4.42",
+                "reason": "Geoloc mismatch - 4.42km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9476453,67.0822218",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686be3e96894205e4ee6aa86",
+                "title": "Total-Support Bra - Skin | All-Day Comfort & Full Coverage",
+                "seller": {
+                    "id": "19632677",
+                    "name": "Flourish",
+                    "userName": "Muhammad Hassan",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9476453,
+                    "lng": 67.0822218
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "4.42",
+                "reason": "Geoloc mismatch - 4.42km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9476453,67.0822218",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686be384e2672cd9b0c32cf2",
+                "title": "Beurer - Digital TENS/EMS unit EM 49 3-in-1 EMS/TENS device in therapy, muscle stimula pain therapy, muscle stimulation & massage",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686be27ee2672cd9b0c32cd7",
+                "title": "Beurer - Wrist/lower arm TENS EM 28 TENS device for pain therapy & regeneration for wrist/lower arm",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686be114e2672cd9b0c32cc1",
+                "title": "Beurer - Basal thermometer OT 30 Ovulation thermometer for pregnancy or cycle tracking - compatible with the Ovy app via Bluetooth®",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdfac6894205e4ee6a900",
+                "title": "Minimizer Bra in Plum | Comfortable Fit & Bust Reduction",
+                "seller": {
+                    "id": "19632677",
+                    "name": "Flourish",
+                    "userName": "Muhammad Hassan",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.9476453,
+                    "lng": 67.0822218
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "4.42",
+                "reason": "Geoloc mismatch - 4.42km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.9476453,67.0822218",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdf886894205e4ee6a8fa",
+                "title": "Beurer - Thermometer FT 15 Easy to operate thermometer with a quick measurement within 10 seconds.",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdf4c276f2b406cac660f",
+                "title": "Pack of 12 - 100% Cotton Black School Uniform Socks for Kids | Unisex Children’s Daily Wear Socks",
+                "seller": {
+                    "id": "3803580855",
+                    "name": "Muhammad Atif",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57823459999999,
+                    "lng": 74.3180543
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "1.26",
+                "reason": "Geoloc mismatch - 1.26km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57823459999999,74.3180543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 31.5699371,
+                        "lng": 74.3089473
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdeac66b3a968bd4fc468",
+                "title": "Beurer - Non-contact thermometer FT 100 Measures body, ambient and surface temperature with infrared measurement technology",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bde72276f2b406cac65cb",
+                "title": "Pack of 12 - 100% Cotton White School Uniform Socks for Kids | Unisex Children’s Socks for Daily School Wear",
+                "seller": {
+                    "id": "3803580855",
+                    "name": "Seth Hoisery",
+                    "userName": "Muhammad Atif",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57823459999999,
+                    "lng": 74.3180543
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "1.26",
+                "reason": "Geoloc mismatch - 1.26km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57823459999999,74.3180543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 31.5699371,
+                        "lng": 74.3089473
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdd9c66b3a968bd4fc3fe",
+                "title": "Beurer - Non-contact thermometer Bluetooth® FT 95",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdcfa276f2b406cac6565",
+                "title": "Pack of 3 - Imported Multicolor Kids Socks | Soft, Stretchable & Stylish (Unisex, Latest Designs)",
+                "seller": {
+                    "id": "3803580855",
+                    "name": "Seth Hoisery",
+                    "userName": "Muhammad Atif",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57823459999999,
+                    "lng": 74.3180543
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "1.26",
+                "reason": "Geoloc mismatch - 1.26km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57823459999999,74.3180543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 31.5699371,
+                        "lng": 74.3089473
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdcab66b3a968bd4fc3c8",
+                "title": "Beurer - Non-contact thermometer FT 85 ",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdc74276f2b406cac652d",
+                "title": "Universal Gain Fast Chocolate Shake – Frasco de 3kg.",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdc0e66b3a968bd4fc38e",
+                "title": "The incredible Hulk Mass Gainer 1Kg/1000Gm 1630calories",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdb9b66b3a968bd4fc376",
+                "title": "Pack of 9 - Imported Socks for Kids - Latest Designs (Multicolor)",
+                "seller": {
+                    "id": "3803580855",
+                    "name": "Seth Hoisery",
+                    "userName": "Muhammad Atif",
+                    "businessType": "flexible",
+                    "zone": "Walled City",
+                    "city": "Lahore",
+                    "province": "Punjab"
+                },
+                "sellerAddress": "Walled City, Lahore, Punjab",
+                "currentGeoloc": {
+                    "lat": 31.57823459999999,
+                    "lng": 74.3180543
+                },
+                "verifiedGeoloc": {
+                    "lat": 31.5699371,
+                    "lng": 74.3089473
+                },
+                "distanceKm": "1.26",
+                "reason": "Geoloc mismatch - 1.26km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=31.57823459999999,74.3180543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 31.5699371,
+                        "lng": 74.3089473
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bdb71276f2b406cac64c5",
+                "title": "THE CURSE PRE WORKOUT 50 SERVINGS ORIGNAL",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bda6166b3a968bd4fc31b",
+                "title": "Beurer - Earwax Guard for HA 60 / HA 85 64116",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd8cf66b3a968bd4fc2b1",
+                "title": "Beurer - Drying capsules for HA 60 / HA 80 64115",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd7c2276f2b406cac6298",
+                "title": "Ronnie Coleman Signature Series Creatine XS",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd76e276f2b406cac6276",
+                "title": "Beurer - Earing amplifier HA 50 Particularly inconspicuous hearing amplifier with extended frequency range",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd73966b3a968bd4fc26e",
+                "title": "Ronnie Coleman king Mass Gainer 2LB",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd6b766b3a968bd4fc264",
+                "title": "RONNIE COLEMAN CLA 90 TAB WEIGHT LOSS",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd698276f2b406cac61f1",
+                "title": "Beurer - Hearing amplifier Ergonomic hearing amplifier with ear canal adjustment HA 20",
+                "seller": {
+                    "id": "153028546",
+                    "name": "Beurer Official",
+                    "userName": "Habib Hussain",
+                    "businessType": "inclusive",
+                    "zone": "F.B Area",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "F.B Area, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.92311805925782,
+                    "lng": 67.06649601459503
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.9110991,
+                    "lng": 67.0649395
+                },
+                "distanceKm": "1.35",
+                "reason": "Geoloc mismatch - 1.35km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.92311805925782,67.06649601459503",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.9110991,
+                        "lng": 67.0649395
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd42ce25eb2eb9fd9e2d2",
+                "title": "Printed Travel Bottle Ajrak White Design",
+                "seller": {
+                    "id": "339389524",
+                    "name": "Gul Khan Truck Art",
+                    "userName": "Ali Gul",
+                    "businessType": "inclusive",
+                    "zone": "DHA",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "sellerAddress": "DHA, Karachi, Sindh",
+                "currentGeoloc": {
+                    "lat": 24.79274120256953,
+                    "lng": 67.06465803086758
+                },
+                "verifiedGeoloc": {
+                    "lat": 24.8146335,
+                    "lng": 67.0800032
+                },
+                "distanceKm": "2.89",
+                "reason": "Geoloc mismatch - 2.89km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=24.79274120256953,67.06465803086758",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 24.8146335,
+                        "lng": 67.0800032
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            },
+            {
+                "objectID": "686bd426e25eb2eb9fd9e2cd",
+                "title": "Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate, 5 Pound (Packaging May Vary)",
+                "seller": {
+                    "id": "459689548",
+                    "name": "GM Foods and Nutrition",
+                    "userName": "Syed Bismillah Jan Badshah ",
+                    "businessType": "inclusive",
+                    "zone": "Hayatabad",
+                    "city": "Peshawar",
+                    "province": "Khyber Pakhtunkhwa"
+                },
+                "sellerAddress": "Hayatabad, Peshawar, Khyber Pakhtunkhwa",
+                "currentGeoloc": {
+                    "lat": 33.9993025,
+                    "lng": 71.4266543
+                },
+                "verifiedGeoloc": {
+                    "lat": 33.9767168,
+                    "lng": 71.4372584
+                },
+                "distanceKm": "2.70",
+                "reason": "Geoloc mismatch - 2.70km difference",
+                "status": "Incorrect",
+                "googleMapsUrl": "https://www.google.com/maps?q=33.9993025,71.4266543",
+                "suggestedCorrection": {
+                    "_geoloc": {
+                        "lat": 33.9767168,
+                        "lng": 71.4372584
+                    },
+                    "hasGeo": true,
+                    "note": "Geolocation should be updated to match seller address"
+                },
+                "fixStatus": "Can be fixed"
+            }
+        ],
+        "missingGeoloc": [
+            {
+                "objectID": "686ce5c55feebbcc1b1006ef",
+                "title": "PVC Pipe 17\" Long White Sch40 Industrial PVC Pipes for Home DIY, Greenhouse, Garden, Farm, Workshop, Furniture Grade(1\" x 17\"L)",
+                "seller": {
+                    "id": "2921706006",
+                    "name": "Best seller shop",
+                    "userName": "Talha",
+                    "businessType": "inclusive",
+                    "zone": "Korangi",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686be008e2672cd9b0c32c8f",
+                "title": "The Vintage Clothing Premium Quality Pack of 3 Graphic T-Shirts for Men and Women Unisex Trendy Casual Tees",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686be006e2672cd9b0c32c86",
+                "title": "The Vintage Clothing Premium Quality Pack of 3 Graphic T-Shirts for Men and Women Unisex Trendy Casual Tees",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bde0166b3a968bd4fc422",
+                "title": "The Vintage Clothing Pack of 5 Basic Premium Full Sleeve T-Shirts for Men Soft Cotton Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bdaf766b3a968bd4fc336",
+                "title": "The Vintage Clothing Pack of 5 Printed T-Shirt Premium Printed T-shirts For Teen Boys & Girls High Quality T-shirts For Toddler Boys & Girls - 100% Cotton, High-Quality DTF Prints, Ages 6 Months to 12 Years",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bd7bb66b3a968bd4fc28f",
+                "title": "The Vintage Clothing Pack of 2 Premium Printed T-Shirts for Men Stylish Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bd7ba276f2b406cac6288",
+                "title": "The Vintage Clothing Pack of 2 Premium Printed T-Shirts for Men Stylish Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bd6ac276f2b406cac6207",
+                "title": "The Vintage Clothing New Trendy Collection Imported High-Quality Plain Crop T-Shirts for Women & Girls New Launch 2025",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bcff4e25eb2eb9fd9e069",
+                "title": "The Vintage Clothing Premium Graphic Printed T-Shirts for Men Pack of 5 Trendy Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bcedce25eb2eb9fd9dfef",
+                "title": "The Vintage Clothing Pack of 2 Premium Graphic T-Shirts for Men and Women Unisex Streetwear Style",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bcdb2e25eb2eb9fd9df38",
+                "title": "The Vintage Clothing Plain Basic Imported White T-Shirt for Men Soft Premium Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bcc50e25eb2eb9fd9de85",
+                "title": "The Vintage Clothing Premium Quality Graphic T-Shirts for Men and Women Unisex Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bc7ecbc4354bcb47ef773",
+                "title": "The Vintage Clothing Pack of 4 Premium Printed T-Shirts for Men Stylish Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bc5f6bc4354bcb47ef60e",
+                "title": "The Vintage Clothing Basic Premium T-Shirt for Men Soft Cotton Everyday Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bc06fbc4354bcb47ef3ca",
+                "title": "The Vintage Clothing Pack of 3 Men's Sleeveless Hooded Gym Sando Tanks – Muscle Fit Workout & Bodybuilding Tank Tops",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            },
+            {
+                "objectID": "686bbeeabc4354bcb47ef2d3",
+                "title": "The Vintage Clothing Pack of 5 Men's Plain Half Sleeve T-Shirts – Soft Cotton Casual Wear",
+                "seller": {
+                    "id": "1209766002",
+                    "name": "the vintage clothing",
+                    "userName": "muhammad maaz",
+                    "businessType": "inclusive",
+                    "zone": "Nazimabad",
+                    "city": "Karachi",
+                    "province": "Sindh"
+                },
+                "currentGeoloc": {},
+                "reason": "Missing or incomplete geolocation"
+            }
+        ],
+        "noSellerAddress": []
+    },
+    "statistics": {
+        "averageDistance": "NaNkm",
+        "maxDistance": "NaNkm",
+        "totalFixableProducts": 8713
+    },
+    "note": "Showing samples from each category. 8713 products can be fixed by updating geoloc to match seller address. NO CHANGES MADE TO ALGOLIA."
+}

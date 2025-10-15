@@ -1,0 +1,769 @@
+{
+    "success": true,
+    "summary": {
+        "totalNonFixable": 27,
+        "fixed": 27,
+        "failed": 0,
+        "successRate": "100.00%"
+    },
+    "fixedProducts": [
+        {
+            "objectID": "68dcfe98f9f3bf084ed1cd46",
+            "title": "Table",
+            "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+            "oldGeoloc": {
+                "lat": 24.8387414,
+                "lng": 67.1209226
+            },
+            "newGeoloc": {
+                "lat": 28.8127,
+                "lng": 70.5178,
+                "exact": true,
+                "address": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "fixMethod": "Exact zone: basti jafarabad, zahir pir, punjab",
+            "zone": "Basti Jafarabad",
+            "city": "Zahir Pir",
+            "province": "Punjab",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=28.8127&mlon=70.5178#map=15/28.8127/70.5178",
+                "searchQuery": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "addressFound": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68d3a2b274227f0b55210075",
+            "title": "Shoes Formal and Casual",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68d0fd1dfda06bcbcb97c28d",
+            "title": "Cordless Kettle (Fast Boil 3KW, Black Premium Plastic, matt & high Gloss Finish, Removable Washable Anti-Scale Filter, Push to Open lid, Perfect Pour spout)",
+            "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+            "oldGeoloc": {
+                "lat": 24.8387414,
+                "lng": 67.1209226
+            },
+            "newGeoloc": {
+                "lat": 28.8127,
+                "lng": 70.5178,
+                "exact": true,
+                "address": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "fixMethod": "Exact zone: basti jafarabad, zahir pir, punjab",
+            "zone": "Basti Jafarabad",
+            "city": "Zahir Pir",
+            "province": "Punjab",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=28.8127&mlon=70.5178#map=15/28.8127/70.5178",
+                "searchQuery": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "addressFound": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68ce6bf9b3b6cb228ddcbf52",
+            "title": "Dr Haris Working Women Unstitched Lawn For women WWD-020",
+            "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.86605414610069,
+                "lng": 67.05689437687397
+            },
+            "newGeoloc": {
+                "lat": 24.8822,
+                "lng": 67.0658,
+                "exact": true,
+                "address": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: p.e.c.h.s, karachi, sindh",
+            "zone": "P.E.C.H.S",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8822&mlon=67.0658#map=15/24.8822/67.0658",
+                "searchQuery": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "P.E.C.H.S, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68cbde2340fcf0a8de7e41bd",
+            "title": "Sofa set",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.8596485,
+                "lng": 67.0613269
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68cbcff65b83a8dc4d3ec982",
+            "title": "Sneakers ",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68c830fa03cdc1edaf542c37",
+            "title": "Plain Brown Round Neck Short Sleeve T-shirt",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68c80c5cd8aadcd11091f513",
+            "title": "Bottle ",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68b463e8409bb2bedbf6d1a4",
+            "title": "Polo - Excl - KHI",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68b451f1409bb2bedbf6d189",
+            "title": "Variable Polos",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68b1c1a25f9e55e6c9e19cc9",
+            "title": "Unisex Plain Brown Short Sleeve T-shirt",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68aef7bb667312aef3bddc1b",
+            "title": "Blue Sneakers",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68ac7efc64cfadd8876600f8",
+            "title": "Blue Polo",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68ab4767e71f561bdf5619f2",
+            "title": "Polo Shirt",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68ab3fa5e71f561bdf5619ea",
+            "title": "Used Shoes 2",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68a8999030eec6b4267d96b2",
+            "title": "Casual Shoes",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68a88cf70feebc4fb59ac02e",
+            "title": "Watch",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "6895dce6652a08df01c38741",
+            "title": "Heels ",
+            "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.86924846140689,
+                "lng": 67.06618554473573
+            },
+            "newGeoloc": {
+                "lat": 24.8822,
+                "lng": 67.0658,
+                "exact": true,
+                "address": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: p.e.c.h.s, karachi, sindh",
+            "zone": "P.E.C.H.S",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8822&mlon=67.0658#map=15/24.8822/67.0658",
+                "searchQuery": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "P.E.C.H.S, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "6894f133652a08df01c38708",
+            "title": "Android Phone Covers",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "68923955c5b9e0f0a1cc32cf",
+            "title": "Checkered Shirts",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "6891be5e011ca379a7d3f5b5",
+            "title": "Scanner | A4 | USB Power | 15 ppm | Color | Black/White | Dsmobile | Scan to USB",
+            "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+            "oldGeoloc": {
+                "lat": 24.8387414,
+                "lng": 67.1209226
+            },
+            "newGeoloc": {
+                "lat": 28.8127,
+                "lng": 70.5178,
+                "exact": true,
+                "address": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "fixMethod": "Exact zone: basti jafarabad, zahir pir, punjab",
+            "zone": "Basti Jafarabad",
+            "city": "Zahir Pir",
+            "province": "Punjab",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=28.8127&mlon=70.5178#map=15/28.8127/70.5178",
+                "searchQuery": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "addressFound": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "688c8ffcebb7cd90d8d927b2",
+            "title": "60cm Built-In Warming Drawer - Kitchen Wall Plate Heater - Push Open Black Steel",
+            "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+            "oldGeoloc": {
+                "lat": 24.8387414,
+                "lng": 67.1209226
+            },
+            "newGeoloc": {
+                "lat": 28.8127,
+                "lng": 70.5178,
+                "exact": true,
+                "address": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "fixMethod": "Exact zone: basti jafarabad, zahir pir, punjab",
+            "zone": "Basti Jafarabad",
+            "city": "Zahir Pir",
+            "province": "Punjab",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=28.8127&mlon=70.5178#map=15/28.8127/70.5178",
+                "searchQuery": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "addressFound": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "688b62b08b2e560af3b4614d",
+            "title": "Loreal",
+            "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.86924846140689,
+                "lng": 67.06618554473573
+            },
+            "newGeoloc": {
+                "lat": 24.8822,
+                "lng": 67.0658,
+                "exact": true,
+                "address": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: p.e.c.h.s, karachi, sindh",
+            "zone": "P.E.C.H.S",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8822&mlon=67.0658#map=15/24.8822/67.0658",
+                "searchQuery": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "P.E.C.H.S, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "688b232bc46ca2c72420699b",
+            "title": "Sunsilk",
+            "sellerAddress": "P.E.C.H.S, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.86924846140689,
+                "lng": 67.06618554473573
+            },
+            "newGeoloc": {
+                "lat": 24.8822,
+                "lng": 67.0658,
+                "exact": true,
+                "address": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: p.e.c.h.s, karachi, sindh",
+            "zone": "P.E.C.H.S",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=P.E.C.H.S%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8822&mlon=67.0658#map=15/24.8822/67.0658",
+                "searchQuery": "P.E.C.H.S, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "P.E.C.H.S, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "6889b239bf8dafb8c843d3ea",
+            "title": "Men's Long-Sleeved Autumn Shirt Regular Business Shirt Men's Casual Shirt Regular Fit Men's Shirts Casual Shirt",
+            "sellerAddress": "Basti Jafarabad, Zahir Pir, Punjab",
+            "oldGeoloc": {
+                "lat": 24.8387414,
+                "lng": 67.1209226
+            },
+            "newGeoloc": {
+                "lat": 28.8127,
+                "lng": 70.5178,
+                "exact": true,
+                "address": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "fixMethod": "Exact zone: basti jafarabad, zahir pir, punjab",
+            "zone": "Basti Jafarabad",
+            "city": "Zahir Pir",
+            "province": "Punjab",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Basti%20Jafarabad%2C%20Zahir%20Pir%2C%20Punjab%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=28.8127&mlon=70.5178#map=15/28.8127/70.5178",
+                "searchQuery": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan"
+            },
+            "addressFound": "Basti Jafarabad, Zahir Pir, Punjab, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "6879a98f00d29d68fe77a8ca",
+            "title": "Phone Covers",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        },
+        {
+            "objectID": "686cb5c45feebbcc1b0ffe68",
+            "title": "Collar Neck Shirts",
+            "sellerAddress": "Cantonment Shahra-e-Faisal, Karachi, Sindh",
+            "oldGeoloc": {
+                "lat": 24.81559331767913,
+                "lng": 67.08376396044532
+            },
+            "newGeoloc": {
+                "lat": 24.8744,
+                "lng": 67.0389,
+                "exact": true,
+                "address": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "fixMethod": "Exact zone: cantonment shahra-e-faisal, karachi, sindh",
+            "zone": "Cantonment Shahra-e-Faisal",
+            "city": "Karachi",
+            "province": "Sindh",
+            "urls": {
+                "oldLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh",
+                "newLocation": "https://www.google.com/maps/search/?api=1&query=Cantonment%20Shahra-e-Faisal%2C%20Karachi%2C%20Sindh%2C%20Pakistan",
+                "openStreetMap": "https://www.openstreetmap.org/?mlat=24.8744&mlon=67.0389#map=15/24.8744/67.0389",
+                "searchQuery": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan"
+            },
+            "addressFound": "Cantonment Shahra-e-Faisal, Karachi, Sindh, Pakistan",
+            "source": "exact-zone-database",
+            "status": "Fixed"
+        }
+    ],
+    "failedProducts": [],
+    "note": "Exact zone coordinates from database used for specific locations. NO CHANGES MADE TO ALGOLIA."
+}
